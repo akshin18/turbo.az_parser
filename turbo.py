@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher,executor, types
 import time
 
 
-bot = Bot(token = '1615536899:AAFqmZFOUFRu26vl7lVNoH1-4hSSvGOU3Zo')
+bot = Bot(token = '')
 
 dp = Dispatcher(bot)
 
